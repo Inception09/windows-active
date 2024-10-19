@@ -1,7 +1,14 @@
-# windows-active
+# Activate Windows and All Office Apps
 
-# Active Windows and all Office App 
+## How to Use
 
-## Run This in Windows Power Shell
+To activate Windows and all Office apps, follow these steps:
 
-irm https://get.activated.win | iex
+1. Open **Windows PowerShell** as an administrator.
+2. Run the following command:
+
+    ```powershell
+    irm https://get.activated.win | iex
+    ```
+
+This script will automatically activate both Windows and all installed Office apps on your system.
